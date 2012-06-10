@@ -7,6 +7,7 @@ A collection of [puppet][puppet_url] modules. Some of which I wrote.
 ## Installation
 
 You'll want to merge it with your system's `/etc/puppet/modules` directory. You can do this manually, or in git. The following command sequence should accomplish the latter option, but has not been tested:
+
 1. `su root`
 2. `cd /etc/puppet/modules`
 3. `git init`
