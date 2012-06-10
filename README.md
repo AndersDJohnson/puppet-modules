@@ -16,3 +16,8 @@ You'll want to merge it with your system's `/etc/puppet/modules` directory. You 
 6. `git merge --strategy ours --no-commit AndersDJohnson/master`
 7. `git read-tree -m -u AndersDJohnson/master`
 
+You should then be able to get updates with:
+
+* `git pull -s subtree AndersDJohnson master`
+
+
