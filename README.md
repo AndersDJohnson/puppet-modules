@@ -1,4 +1,4 @@
-[puppet_url][http://puppetlabs.com/]
+[puppet_url]: http://puppetlabs.com/
 
 # puppet-modules
 
