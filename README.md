@@ -20,4 +20,8 @@ You should then be able to get updates with:
 
 * `git pull -s subtree AndersDJohnson master`
 
+You'll need to initialize and update the submodules:
+
+1. `git submodule init`
+2. `git submodule update`
 
