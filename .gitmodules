@@ -1,0 +1,6 @@
+[submodule "dotfiles_github"]
+	path = dotfiles_github
+	url = git@github.com:adjohnson916/puppet-module-dotfiles_github.git
+[submodule "nodejs"]
+	path = nodejs
+	url = git@github.com:danheberden/puppet-nodejs.git
