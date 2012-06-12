@@ -11,7 +11,7 @@ You'll want to merge it with your system's `/etc/puppet/modules` directory. You 
 1. `su root`
 2. `cd /etc/puppet/modules`
 3. `git init`
-4. `git remote add AndersDJohnson git@github.com:AndersDJohnson/puppet-modules.git`
+4. `git remote add AndersDJohnson git://github.com/AndersDJohnson/puppet-manifests.git`
 5. `git fetch AndersDJohnson`
 6. `git merge --strategy ours --no-commit AndersDJohnson/master`
 7. `git read-tree -m -u AndersDJohnson/master`
